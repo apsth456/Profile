@@ -24,6 +24,13 @@ Tel: 043-002488
 <p align="center">
     <img width=120 src="https://raw.githubusercontent.com/surrealdb/icons/main/surreal.svg" />
     &nbsp;
-    <img width=120 src="https://raw.githubusercontent.com/surrealdb/icons/main/golang.svg" />
+    <img width=120 src="https://raw.githubusercontent.com/surrealdb/icons/main/php.svg" />
+    &nbsp;
+    <img width=120 src="https://raw.githubusercontent.com/surrealdb/icons/main/javascip.svg" />
+     &nbsp;
+    <img width=120 src="https://raw.githubusercontent.com/surrealdb/icons/main/webassembly.svg" />
+    &nbsp;
+    <img width=120 src="https://raw.githubusercontent.com/surrealdb/icons/main/nodejs.svg" />
 </p>
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
