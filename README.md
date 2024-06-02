@@ -5,7 +5,7 @@
 For Hospital, Clinic, Spa, Wellness, ศูนย์ดูแลผู้สูงอายุ ธุรกิจความงาม คลินิกเฉพาะทาง คลินิกเวชกรรม คลินิกทั่วไป คลินิกพยาบาลผดุงครรภ์ คลินิกกายภาพบำบัด คลินิกแพทย์แผนไทย-จีน คลินิกอายุรกรรม คลินิกแม่และเด็ก คลินิกบําบัดยาเสพติด คลินิกสุขภาพจิต คลินิกตา
 
 <p align="center">
-    <img width=100% src="[https://www.apsth.com/assets/images/landings/saas/app-screen-1.jpg](https://www.apsth.com)" />
+    <img width=100% src="[https://www.apsth.com/](https://www.apsth.com](https://www.apsth.com/assets/images/landings/saas/app-screen-1.jpg)" />
 </p>
 
 บริษัท เอพีเอส ทีเอช จำกัด ( APSTH )
