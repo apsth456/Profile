@@ -20,6 +20,10 @@ Tel: 043-002488
 
 Skills: GO / VUE JS / PHP / NODE JS / RUST / SWFT UI / JS / HTML / CSS / SCSS
 
-[<img src='[https://www.apsth.com/assets/img/apsx.png](https://raw.githubusercontent.com/surrealdb/icons/main/golang.svg)' alt='apsth'>](https://www.apsth.com)
+<p align="center">
+    <img width=120 src="https://raw.githubusercontent.com/surrealdb/icons/main/surreal.svg" />
+    &nbsp;
+    <img width=120 src="https://raw.githubusercontent.com/surrealdb/icons/main/golang.svg" />
+</p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
