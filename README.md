@@ -28,7 +28,7 @@ Tel: 043-002488
 <p align="center">
     <img width=120 src="https://raw.githubusercontent.com/surrealdb/icons/main/surreal.svg" />
      &nbsp;
-    <img width=120 src="https://raw.githubusercontent.com/surrealdb/icons/main/go.svg" />
+    <img width=120 src="https://raw.githubusercontent.com/surrealdb/icons/main/golang.svg" />
     &nbsp;
     <img width=120 src="https://raw.githubusercontent.com/surrealdb/icons/main/php.svg" />
     &nbsp;
