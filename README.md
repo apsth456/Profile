@@ -39,4 +39,6 @@ Tel: 043-002488
     <img width=120 src="https://raw.githubusercontent.com/surrealdb/icons/main/nodejs.svg" />
 </p>
 
+<p align="center">
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+</p>
